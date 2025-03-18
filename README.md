@@ -1,12 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Poramet Keawubol
 ========================================================================================================================================
+![Profile Views](https://komarev.com/ghpvc/?username=PorametKeawubol&label=Profile%20views&color=0e75b6&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/PorametKeawubol.svg?style=social&label=Follow)
 
-* 🌍  I'm based in Prince of Songkla University, Thailand
 
-<a href="https://www.twitch.tv/mpzxyz" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/mpzxyz?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+### About Me  
+ I'm currently a **Computer Engineering student** at **Prince of Songkla University, Hat Yai, Thailand**.  
+ Passionate about **Software Development** and **IoT (Internet of Things)**.  
+ Always eager to learn and explore new technologies.  
 
-### 🌐 Socials
+
+
+### Connect with Me 
 <p align="left">
   <a href="http://www.instagram.com/mpzxyz_" target="_blank" rel="noreferrer">
     <picture>
@@ -31,7 +36,7 @@ src="https://img.shields.io/twitch/status/mpzxyz?logo=twitchsx&style=for-the-bad
   </a>
 </p>
 
-### 👨‍💻 My GitHub Stats
+### My GitHub Stats
 
 <a href="https://github.com/PorametKeawubol">
     <picture>
